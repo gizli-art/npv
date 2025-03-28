@@ -1,2 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFU2JEcWxRMndyRER2c0s1d3JnL3dwbkNyUzRQSzhPRndySXRTOEtid29uRHZsUWF3cHhVRk1PSmVRakR1MWs9@45.152.114.170:42699?type=tcp#npv-19yreblu
-vless://f1cb2a7c-ca0e-41dc-9f83-7b83ffb88b9b@46.8.230.35:57069?type=tcp&security=none#npv-g9dubgvr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPZ3ZDbzNERGl4SENxQkxDclJQRG5nUEN0RjFRVjhLOXc2WENvMHJDckFyRG9HN0NqY09Zd3BEQ244T0xDOEtmdzcwPQ@185.228.235.38:23331?type=tcp#npv-gah65qln
