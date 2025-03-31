@@ -1,1 +1,1 @@
-vless://0feca82b-0435-4bb2-a1e7-532a99310390@193.176.179.221:15515?type=tcp&security=none#m387eq0e
+ss://YWVzLTI1Ni1nY206QncxQ1A3WjdleEAyMDcuOTAuMjM3LjQyOjU4Nzkx#d
